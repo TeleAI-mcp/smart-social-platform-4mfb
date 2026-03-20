@@ -1,2 +1,3 @@
-# smart-social-platform-4mfb
-A repository to test GitHub automation for issue management
+# Smart Social Platform 4Mfb
+
+A repository to test GitHub automation for issue management.
